@@ -1,0 +1,2418 @@
+{
+	"@context": [
+		"http://www.w3.org/ns/anno.jsonld",
+		"http://iiif.io/api/presentation/3/context.json"
+	],
+	"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/manifest.json",
+	"type": "Manifest",
+	"items": [
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f000",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f000/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f000/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0001",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4038,
+								"width": 6120,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0001",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f000"
+						}
+					]
+				}
+			],
+			"height": 4038,
+			"width": 6120,
+			"label": {
+				"none": [
+					"Page 1"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f001",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f001/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f001/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0002",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5271,
+								"width": 3360,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0002",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f001"
+						}
+					]
+				}
+			],
+			"height": 5271,
+			"width": 3360,
+			"label": {
+				"none": [
+					"Page 2"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f001/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f001/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://vivianteresa.github.io/dcefolger//hamilton/tei/hamilton/f001.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f001"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f001/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://vivianteresa.github.io/dcefolger//hamilton/html/hamilton/f001.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f001"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f002",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f002/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f002/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0003",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5271,
+								"width": 3360,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0003",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f002"
+						}
+					]
+				}
+			],
+			"height": 5271,
+			"width": 3360,
+			"label": {
+				"none": [
+					"Page 3"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f002/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f002/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://vivianteresa.github.io/dcefolger//hamilton/tei/hamilton/f002.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f002"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f002/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://vivianteresa.github.io/dcefolger//hamilton/html/hamilton/f002.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f002"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f003",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f003/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f003/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0004",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5271,
+								"width": 3360,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0004",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f003"
+						}
+					]
+				}
+			],
+			"height": 5271,
+			"width": 3360,
+			"label": {
+				"none": [
+					"Page 4"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f003/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f003/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://vivianteresa.github.io/dcefolger//hamilton/tei/hamilton/f003.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f003"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f003/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://vivianteresa.github.io/dcefolger//hamilton/html/hamilton/f003.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f003"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f004",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f004/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f004/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0005",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 3360,
+								"width": 5271,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0005",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f004"
+						}
+					]
+				}
+			],
+			"height": 3360,
+			"width": 5271,
+			"label": {
+				"none": [
+					"Page 5"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f005",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f005/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f005/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0006",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4954,
+								"width": 3095,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0006",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f005"
+						}
+					]
+				}
+			],
+			"height": 4954,
+			"width": 3095,
+			"label": {
+				"none": [
+					"Page 6"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f006",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f006/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f006/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0007",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4958,
+								"width": 3090,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0007",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f006"
+						}
+					]
+				}
+			],
+			"height": 4958,
+			"width": 3090,
+			"label": {
+				"none": [
+					"Page 7"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f007",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f007/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f007/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0008",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 3879,
+								"width": 3185,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0008",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f007"
+						}
+					]
+				}
+			],
+			"height": 3879,
+			"width": 3185,
+			"label": {
+				"none": [
+					"Page 8"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f008",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f008/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f008/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0009",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 3948,
+								"width": 3170,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0009",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f008"
+						}
+					]
+				}
+			],
+			"height": 3948,
+			"width": 3170,
+			"label": {
+				"none": [
+					"Page 9"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f009",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f009/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f009/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0010",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 3948,
+								"width": 3170,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0010",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f009"
+						}
+					]
+				}
+			],
+			"height": 3948,
+			"width": 3170,
+			"label": {
+				"none": [
+					"Page 10"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f010",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f010/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f010/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0011",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 3911,
+								"width": 3204,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0011",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f010"
+						}
+					]
+				}
+			],
+			"height": 3911,
+			"width": 3204,
+			"label": {
+				"none": [
+					"Page 11"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f011",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f011/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f011/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0012",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 3897,
+								"width": 3159,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0012",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f011"
+						}
+					]
+				}
+			],
+			"height": 3897,
+			"width": 3159,
+			"label": {
+				"none": [
+					"Page 12"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f012",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f012/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f012/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0013",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 3895,
+								"width": 3185,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0013",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f012"
+						}
+					]
+				}
+			],
+			"height": 3895,
+			"width": 3185,
+			"label": {
+				"none": [
+					"Page 13"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f013",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f013/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f013/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0014",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 3225,
+								"width": 3915,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0014",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f013"
+						}
+					]
+				}
+			],
+			"height": 3225,
+			"width": 3915,
+			"label": {
+				"none": [
+					"Page 14"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f014",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f014/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f014/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0015",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 3865,
+								"width": 3154,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0015",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f014"
+						}
+					]
+				}
+			],
+			"height": 3865,
+			"width": 3154,
+			"label": {
+				"none": [
+					"Page 15"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f015",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f015/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f015/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0016",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 3873,
+								"width": 6154,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0016",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f015"
+						}
+					]
+				}
+			],
+			"height": 3873,
+			"width": 6154,
+			"label": {
+				"none": [
+					"Page 16"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f016",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f016/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f016/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0017",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 3130,
+								"width": 3882,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0017",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f016"
+						}
+					]
+				}
+			],
+			"height": 3130,
+			"width": 3882,
+			"label": {
+				"none": [
+					"Page 17"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f017",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f017/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f017/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0018",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5306,
+								"width": 3265,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0018",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f017"
+						}
+					]
+				}
+			],
+			"height": 5306,
+			"width": 3265,
+			"label": {
+				"none": [
+					"Page 18"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f018",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f018/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f018/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0019",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5311,
+								"width": 3267,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0019",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f018"
+						}
+					]
+				}
+			],
+			"height": 5311,
+			"width": 3267,
+			"label": {
+				"none": [
+					"Page 19"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f019",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f019/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f019/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0020",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4122,
+								"width": 3247,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0020",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f019"
+						}
+					]
+				}
+			],
+			"height": 4122,
+			"width": 3247,
+			"label": {
+				"none": [
+					"Page 20"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f020",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f020/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f020/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0021",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5311,
+								"width": 3244,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0021",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f020"
+						}
+					]
+				}
+			],
+			"height": 5311,
+			"width": 3244,
+			"label": {
+				"none": [
+					"Page 21"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f021",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f021/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f021/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0022",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5312,
+								"width": 3322,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0022",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f021"
+						}
+					]
+				}
+			],
+			"height": 5312,
+			"width": 3322,
+			"label": {
+				"none": [
+					"Page 22"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f022",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f022/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f022/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0023",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5303,
+								"width": 3306,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0023",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f022"
+						}
+					]
+				}
+			],
+			"height": 5303,
+			"width": 3306,
+			"label": {
+				"none": [
+					"Page 23"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f023",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f023/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f023/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0024",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5317,
+								"width": 3305,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0024",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f023"
+						}
+					]
+				}
+			],
+			"height": 5317,
+			"width": 3305,
+			"label": {
+				"none": [
+					"Page 24"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f024",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f024/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f024/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0025",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 3318,
+								"width": 5312,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0025",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f024"
+						}
+					]
+				}
+			],
+			"height": 3318,
+			"width": 5312,
+			"label": {
+				"none": [
+					"Page 25"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f025",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f025/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f025/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0026",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 3281,
+								"width": 2652,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0026",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f025"
+						}
+					]
+				}
+			],
+			"height": 3281,
+			"width": 2652,
+			"label": {
+				"none": [
+					"Page 26"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f026",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f026/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f026/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0027",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5173,
+								"width": 3286,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0027",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f026"
+						}
+					]
+				}
+			],
+			"height": 5173,
+			"width": 3286,
+			"label": {
+				"none": [
+					"Page 27"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f027",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f027/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f027/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0028",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 2634,
+								"width": 3288,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0028",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f027"
+						}
+					]
+				}
+			],
+			"height": 2634,
+			"width": 3288,
+			"label": {
+				"none": [
+					"Page 28"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f028",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f028/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f028/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0029",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5196,
+								"width": 3354,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0029",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f028"
+						}
+					]
+				}
+			],
+			"height": 5196,
+			"width": 3354,
+			"label": {
+				"none": [
+					"Page 29"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f029",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f029/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f029/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0030",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5160,
+								"width": 3348,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0030",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f029"
+						}
+					]
+				}
+			],
+			"height": 5160,
+			"width": 3348,
+			"label": {
+				"none": [
+					"Page 30"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f030",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f030/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f030/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0031",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5177,
+								"width": 3324,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0031",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f030"
+						}
+					]
+				}
+			],
+			"height": 5177,
+			"width": 3324,
+			"label": {
+				"none": [
+					"Page 31"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f031",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f031/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f031/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0032",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 3334,
+								"width": 5168,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0032",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f031"
+						}
+					]
+				}
+			],
+			"height": 3334,
+			"width": 5168,
+			"label": {
+				"none": [
+					"Page 32"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f032",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f032/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f032/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0033",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4030,
+								"width": 3286,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0033",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f032"
+						}
+					]
+				}
+			],
+			"height": 4030,
+			"width": 3286,
+			"label": {
+				"none": [
+					"Page 33"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f033",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f033/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f033/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0034",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4031,
+								"width": 3290,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0034",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f033"
+						}
+					]
+				}
+			],
+			"height": 4031,
+			"width": 3290,
+			"label": {
+				"none": [
+					"Page 34"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f034",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f034/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f034/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0035",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4040,
+								"width": 3299,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0035",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f034"
+						}
+					]
+				}
+			],
+			"height": 4040,
+			"width": 3299,
+			"label": {
+				"none": [
+					"Page 35"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f035",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f035/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f035/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0036",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 3272,
+								"width": 4034,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0036",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f035"
+						}
+					]
+				}
+			],
+			"height": 3272,
+			"width": 4034,
+			"label": {
+				"none": [
+					"Page 36"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f036",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f036/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f036/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0037",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5286,
+								"width": 3360,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0037",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f036"
+						}
+					]
+				}
+			],
+			"height": 5286,
+			"width": 3360,
+			"label": {
+				"none": [
+					"Page 37"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f037",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f037/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f037/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0038",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5286,
+								"width": 3361,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0038",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f037"
+						}
+					]
+				}
+			],
+			"height": 5286,
+			"width": 3361,
+			"label": {
+				"none": [
+					"Page 38"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f038",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f038/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f038/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0039",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4014,
+								"width": 3378,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0039",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f038"
+						}
+					]
+				}
+			],
+			"height": 4014,
+			"width": 3378,
+			"label": {
+				"none": [
+					"Page 39"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f039",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f039/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f039/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0040",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5262,
+								"width": 3351,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0040",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f039"
+						}
+					]
+				}
+			],
+			"height": 5262,
+			"width": 3351,
+			"label": {
+				"none": [
+					"Page 40"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f040",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f040/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f040/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0041",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 3281,
+								"width": 2720,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0041",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f040"
+						}
+					]
+				}
+			],
+			"height": 3281,
+			"width": 2720,
+			"label": {
+				"none": [
+					"Page 41"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f041",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f041/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f041/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0042",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 3294,
+								"width": 4820,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0042",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f041"
+						}
+					]
+				}
+			],
+			"height": 3294,
+			"width": 4820,
+			"label": {
+				"none": [
+					"Page 42"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f042",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f042/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f042/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0043",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 2718,
+								"width": 3288,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0043",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f042"
+						}
+					]
+				}
+			],
+			"height": 2718,
+			"width": 3288,
+			"label": {
+				"none": [
+					"Page 43"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f043",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f043/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f043/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0044",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 3336,
+								"width": 2748,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0044",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f043"
+						}
+					]
+				}
+			],
+			"height": 3336,
+			"width": 2748,
+			"label": {
+				"none": [
+					"Page 44"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f044",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f044/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f044/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0045",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 3331,
+								"width": 5371,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0045",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f044"
+						}
+					]
+				}
+			],
+			"height": 3331,
+			"width": 5371,
+			"label": {
+				"none": [
+					"Page 45"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f045",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f045/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f045/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0046",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 2748,
+								"width": 3342,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0046",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f045"
+						}
+					]
+				}
+			],
+			"height": 2748,
+			"width": 3342,
+			"label": {
+				"none": [
+					"Page 46"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f046",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f046/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f046/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0047",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5371,
+								"width": 3278,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0047",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f046"
+						}
+					]
+				}
+			],
+			"height": 5371,
+			"width": 3278,
+			"label": {
+				"none": [
+					"Page 47"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f047",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f047/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f047/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0048",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5371,
+								"width": 3301,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0048",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f047"
+						}
+					]
+				}
+			],
+			"height": 5371,
+			"width": 3301,
+			"label": {
+				"none": [
+					"Page 48"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f048",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f048/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f048/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0049",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5387,
+								"width": 3287,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0049",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f048"
+						}
+					]
+				}
+			],
+			"height": 5387,
+			"width": 3287,
+			"label": {
+				"none": [
+					"Page 49"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f049",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f049/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f049/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0050",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5371,
+								"width": 3272,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0050",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f049"
+						}
+					]
+				}
+			],
+			"height": 5371,
+			"width": 3272,
+			"label": {
+				"none": [
+					"Page 50"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f050",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f050/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f050/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0051",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 3341,
+								"width": 2767,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0051",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f050"
+						}
+					]
+				}
+			],
+			"height": 3341,
+			"width": 2767,
+			"label": {
+				"none": [
+					"Page 51"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f051",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f051/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f051/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0052",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 3377,
+								"width": 5341,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0052",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f051"
+						}
+					]
+				}
+			],
+			"height": 3377,
+			"width": 5341,
+			"label": {
+				"none": [
+					"Page 52"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f052",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f052/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f052/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0053",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 2784,
+								"width": 3330,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0053",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f052"
+						}
+					]
+				}
+			],
+			"height": 2784,
+			"width": 3330,
+			"label": {
+				"none": [
+					"Page 53"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f053",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f053/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f053/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0054",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 3840,
+								"width": 3030,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0054",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f053"
+						}
+					]
+				}
+			],
+			"height": 3840,
+			"width": 3030,
+			"label": {
+				"none": [
+					"Page 54"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f054",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f054/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f054/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0055",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 3830,
+								"width": 5864,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0055",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f054"
+						}
+					]
+				}
+			],
+			"height": 3830,
+			"width": 5864,
+			"label": {
+				"none": [
+					"Page 55"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f055",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f055/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f055/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0056",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 3007,
+								"width": 3842,
+								"service": [
+									{
+										"id": "https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0056",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://vivianteresa.github.io/dcefolger//hamilton/iiif/canvas/f055"
+						}
+					]
+				}
+			],
+			"height": 3007,
+			"width": 3842,
+			"label": {
+				"none": [
+					"Page 56"
+				]
+			},
+			"annotations": []
+		}
+	],
+	"label": {
+		"en": [
+			"hamilton"
+		]
+	},
+	"seeAlso": [
+		{
+			"id": "https://cu-mkp.github.io/editioncrafter-data/fr640_3r-3v-example/glossary.json",
+			"type": "Dataset",
+			"label": "Glossary",
+			"format": "text/json"
+		}
+	]
+}
