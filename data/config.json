@@ -3,7 +3,7 @@
   "documentName": "<Hamilton Letter>",
   "iiifManifest": "/dcefolger/<hamilton>/iiif/manifest.json",
   "transcriptionTypes": {
-    "transcription": "Transcription"
+    "hamilton": "Transcription"
   },
   "viewerUrl": "/dcefolger"
 }
